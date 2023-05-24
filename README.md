@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Felipe, um desenvolvedor full stack apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou o Pedro, um desenvolvedor Front-end apaixonado pelo que faz!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/pedro-augusto-lopes-gomes-29337a231/"><img src="https://img.shields.io/badge/-Pedro%20Lopes%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pedrolopesgomes070102@gmail.com"><img src="https://img.shields.io/badge/-pedrolopesgomes070102@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
