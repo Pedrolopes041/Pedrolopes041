@@ -19,6 +19,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 
 <h3>⚙️ &nbsp;Back-end:</h3>
 
