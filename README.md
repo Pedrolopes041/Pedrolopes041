@@ -4,7 +4,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Iniciei minha jornada em programação aos 19 anos na universidade Unipê, onde descobri minha paixão pela Ciência da Computação. Optei por focar minha carreira no desenvolvimento web, pois me permite criar produtos impactantes. Além disso, busco aprimoramento constante através de cursos. No tempo livre, aprecio filmes e séries, pratico exercícios físicos e tenho um grande interesse em adquirir conhecimento, especialmente em tecnologia.
+- 👨🏻‍💻 &nbsp; Minha trajetória na programação começou aos 19 anos, durante minha graduação na Universidade Unipê, onde descobri minha paixão pela Ciência da Computação. Optei por direcionar minha carreira para o desenvolvimento web, pois acredito que é uma área que oferece oportunidades incríveis para criar produtos impactantes. Busco constantemente aprimorar minhas habilidades por meio de cursos e aprendizado contínuo. Nos momentos de lazer, gosto de assistir filmes e séries, praticar exercícios físicos e dedicar tempo ao meu interesse em adquirir conhecimentos, especialmente na área de tecnologia.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
